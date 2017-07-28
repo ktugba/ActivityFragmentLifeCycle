@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ActivityFragmentLifeCycle</string>
+    <string name="hello_world">Merhaba</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment_a">Ben fragment a :)</string>
+    <string name="hello_blank_fragment_b">Ben fragment b</string>
+    <string name="hello_blank_fragment_c">Ben fragment c</string>
 </resources>
